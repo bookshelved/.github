@@ -1,3 +1,1 @@
-# bookshelved is making reading sexy again
-
-[link](https://www.bookshelved.com)
+bookshelved is making reading sexy again ([link](https://www.bookshelved.com))
